@@ -113,8 +113,11 @@ A curated list of the **best headless eCommerce tools, platforms, and services**
 👉 [Best Headless eCommerce Platforms 2026](https://medium.com/@weframe.tech/best-headless-e-commerce-platform-2026-b6756801b66d)  
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PSdk4wwhzIe6GXTUe8zn0A.png" alt="Best Headless eCommerce 2026" width="80%"/>
+  <a href="https://calendly.com/vipuluthaiah/weframe-tech" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PSdk4wwhzIe6GXTUe8zn0A.png" alt="Best Headless eCommerce 2026" width="80%"/>
+  </a>
 </p>
+
 
 ---
 
