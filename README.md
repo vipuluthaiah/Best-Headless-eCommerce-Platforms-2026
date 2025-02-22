@@ -12,8 +12,7 @@ Best list of headless commerce platforms, hybrid solutions, monolithic eCommerce
 - [Vendure](https://www.vendure.io) - A TypeScript and GraphQL-based headless commerce framework.
 - [Swell](https://swell.is) - Headless eCommerce platform for modern brands.
 - [Saleor](https://saleor.io) - A GraphQL-first headless commerce solution.
-- [Unchained Engine](https://unchained-commerce.com) - Open-source API-driven eCommerce framework for Node.js.
-- [Boundless Commerce](https://boundlesscommerce.com) - API-first headless commerce with free Next.js templates.
+
 
 ## 🦎 Hybrids
 - [BigCommerce](https://www.bigcommerce.com) - Hybrid eCommerce platform with built-in SaaS flexibility.
