@@ -50,7 +50,6 @@ A curated list of the **best headless eCommerce tools, platforms, and services**
 
 ## 📑 CMS (Headless Content Management)
 - **[Directus](https://directus.io/)** — Open-source headless CMS with flexible data modeling.  
-  <img src="https://directus.io/_nuxt/logo-dark.Bhm22UGW.svg" alt="Directus Logo" width="120"/>
 - **[Contentful](https://www.contentful.com/)** — Enterprise-grade headless CMS for structured content.
 - **[Sanity](https://www.sanity.io/)** — Real-time collaboration and flexible content API.
 - **[Strapi](https://strapi.io/)** — Open-source, self-hosted headless CMS.
